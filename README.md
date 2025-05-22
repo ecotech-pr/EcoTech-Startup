@@ -1,4 +1,5 @@
 #SPRINT 1
+
 O projeto foi desenvolvido com foco em simplicidade, acessibilidade e compatibilidade, multiplataforma, utilizando HTML para estrutura, CSS para o visual responsivo e JavaScript para interatividade. Essas tecnologias garantem leveza e facilidade de manutenção. O design da interface foi criado no Figma, permitindo prototipagem colaborativa, validação com usuários e alinhamento entre design e desenvolvimento.
 ---
 #SPRINT 2
