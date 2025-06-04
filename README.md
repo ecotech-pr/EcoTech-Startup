@@ -16,3 +16,13 @@
 -Foi retirada a parte branca do background;
 -Adicionado novas imagens;
 -Pequenas modificações na página de login, no código para a estrutura e na estética;
+
+# SPRINT 4
+
+## ATUALIZAÇÕES 3.0
+
+### Tudo que fou implementado após o envio do código para o Github.
+-Foi adicionada a imagem com o nome "ecotech";
+-Feitas modificações do texto pricipal que fica no home;
+-Foram adicionada mais imagens;
+
